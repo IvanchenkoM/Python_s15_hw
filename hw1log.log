@@ -1,0 +1,4 @@
+INFO:hw1log:DATE(day=2, month=11, year=2023)
+ERROR:root:Ошибка при обработке текста '15-й четверг ноября': day is out of range for month
+ERROR:hw1log:Invalid input format: week_day should be one of ['понедельник', 'вторник', 'среда', 'четверг', 'пятница', 'суббота', 'воскресенье']
+ERROR:hw1log:Invalid input format: month should be one of ['января', 'февраля', 'марта', 'апреля', 'мая', 'июня', 'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря']

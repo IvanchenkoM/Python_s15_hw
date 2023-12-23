@@ -1,0 +1,3 @@
+2023-12-23 02:52:36,466 - FileInfo(name='test1', extension='.py', is_dir=False, parent_directory='testFolder')
+2023-12-23 02:52:36,469 - FileInfo(name='test2', extension='Папка', is_dir=True, parent_directory='testFolder')
+2023-12-23 02:52:54,482 - FileInfo(name='test3', extension='.py', is_dir=False, parent_directory='test2')
